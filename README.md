@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**renatamarques97/renatamarques97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Renata Marques. I am a Software Developer and Computer Scientist with hands-on experience working with Ruby and Javascript in fast paced agile environments. I've worked in a wide variety of companies and business domains, building scalable software, mostly working on improving existing and legacy applications. Open source enthusiastic.
 
-Here are some ideas to get you started:
+I like to build things with Ruby, Javascript, Ruby on Rails, ReactJs, GatsbyJs, Git, PostgreSQL, Redis, Rest, and GraphQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time I like to watch and discuss about movies and TV shows, to read books, to listen to music, to photopraph and make some videos.
+
+Would you like to find me?
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/retargaryen)](https://twitter.com/retargaryen)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renata-marques-b27877119/)](https://www.linkedin.com/in/renata-marques-b27877119/)
+
+
