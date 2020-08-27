@@ -6,7 +6,7 @@ I like to build things with Ruby, Javascript, Ruby on Rails, ReactJs, GatsbyJs, 
 
 I also write technical blog posts on [dev.to](https://dev.to/renatamarques97).
 
-I organize an event in my city, the group is called [GuruPI](gurupi.netlify.com), which is focused on Ruby ecosystem but we discuss everything related to technology.
+I organize an event in my city, the group is called [GuruPI](https://gurupi.netlify.app/), which is focused on Ruby ecosystem but we discuss everything related to technology.
 
 In my free time I like to watch and discuss about movies and TV shows, to read books, to listen to music, to photopraph and make some videos.
 
