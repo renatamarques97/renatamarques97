@@ -4,6 +4,8 @@ My name is Renata Marques. I am a Software Developer and Computer Scientist with
 
 I like to build things with Ruby, Javascript, Ruby on Rails, ReactJs, GatsbyJs, Git, PostgreSQL, Redis, Rest, and GraphQL.
 
+I also write technical blog posts on [dev.to](https://dev.to/renatamarques97).
+
 In my free time I like to watch and discuss about movies and TV shows, to read books, to listen to music, to photopraph and make some videos.
 
 Would you like to find me?
